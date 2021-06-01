@@ -1,6 +1,6 @@
 <?php
 
-define('BOT_TOKEN', '1896948597:AAG9AmmU5z4bq-3rloJYUlApwJnhmJ1TeA4'); // place bot token of your bot here
+define('BOT_TOKEN', '1896948597:AAG9AmmU5z4bq-3rloJYUlApwJnhmJ1TeA4');
 
 function checkTelegramAuthorization($auth_data) {
   $check_hash = $auth_data['hash'];
