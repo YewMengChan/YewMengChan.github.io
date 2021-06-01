@@ -1,6 +1,6 @@
 <?php
 
-define('BOT_USERNAME', '@SambaashWidget_Bot');
+define('BOT_USERNAME', 'SambaashWidget_Bot');
 
 function getTelegramUserData() {
   if (isset($_COOKIE['tg_user'])) {
