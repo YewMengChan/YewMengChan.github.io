@@ -1,3 +1,4 @@
-Telegram Login Widget
+Telegram Login Widget PHP
+
 
 # https://YewMengChan.github.io
